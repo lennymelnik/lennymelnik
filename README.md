@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**lennymelnik/lennymelnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Leonard - aka Haxername
+###  I'm a Developer who is studying Data Analytics
+---
+- 🔭 I’m currently working on [Unime](https://unime.io)
+- 🌱 I’m currently learning TCP/IP protocols
+- 🤔 I’m looking for help with Erc.chat, my blockchain chat app
+- 💬 Ask me about my main programming computer
+- 📫 How to reach me: leonardmelnik@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I just found a typewriter in an antique store and it works!!
+
+
