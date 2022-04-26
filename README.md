@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Leonard - aka Haxername
-###  I'm a Developer who is studying Data Analytics
+###  I'm a Developer who is studying Cybersecurity
 
 - 🔭 I’m currently working on [Unime](https://unime.io)
 - 🌱 I’m currently learning TCP/IP protocols
